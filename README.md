@@ -4,6 +4,9 @@
 https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing/data
 
 ## 프로젝트 설명
+-- Python을 기반한 시각화
+
+
 포르투갈 은행 기관의 캠페인(전화 통화)에 대한 고객 데이터를 통해 고객 정보와 경제 지표를 분석하여 정기 예금 가입에 영향을 미치는 feature들을 탐색하고 미래 예측을 통해 마케팅 전략 수립 프로젝트를 진행함.
 
 ## 사용 된 툴
