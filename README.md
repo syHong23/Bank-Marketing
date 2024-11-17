@@ -15,4 +15,4 @@ https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing/data
 - 박연재 : 경제 지표 분석 / 모델 개발 / 보고서 작성
 - 김선우 : 보고서 작성 및 취합 / 전체적인 EDA / 모델 개발
 - 문선규 : 고객 정보 분석 / 모델 개발 / 보고서 작성
-- 홍성연 : 보고서 작성 / 전체적인 EDA
+- 홍성연 : 보고서 작성 / 전체적인 EDA/ 모델 개발
